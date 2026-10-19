@@ -1,1 +1,5 @@
 https://dimitrishelmis-spec.github.io/
+$cat solution.txt
+byte0:i_wanna_be/the_very_best/no_one_ever_was/to_catch_them_is_my_real_test/to_train_them_is_my_cause/i_will_travel_across_the_land/searching_far_and_wide$
+byte1:brown_paper_packages_tied_up_with_strings
+byte2:grep_and_you_shall_find
